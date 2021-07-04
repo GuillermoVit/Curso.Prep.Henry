@@ -1,0 +1,5 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for: For se utiliza para crear bucles, por ejemplo "For i != n" con ese simple codigo se crea un bucle que mientras "i" no sea igual a "n" el codigo seguira generando el codigo que nosotros pongamos despues de las ()
+&& : en castellano y se utiliza para comparar 2 cosas a la vez, por ejemplo ingresamos 1 > 0 && 1<2, entonces si 1 cumple esas 2 condiciones se sigue el codigo o termina dependiendo del if. 
+ || : esto tambien se  utiliza para comparar, por ejemplo "1>0 || 2>0" si una de las dos opciones se cumple el codigo sigue o termina dependiendo del if.
+ ! : Esto viene a ser "NOT" o "NO" en español y se usa para forzar "true" o "false".. tambien para comparaciones como "!= Diferente"..
