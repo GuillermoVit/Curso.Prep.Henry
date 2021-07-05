@@ -1,0 +1,1 @@
+Arrays: es una variable la cual puede contener muchas variables por segmento.
