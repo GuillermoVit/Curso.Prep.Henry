@@ -65,6 +65,7 @@ function agregarStringInvertida() {
         Apellido: apellido;
         Edad: edad;
         Domicilio: domicilio;
+        
       }
 
     }
